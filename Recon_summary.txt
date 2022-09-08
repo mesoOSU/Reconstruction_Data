@@ -1,0 +1,14 @@
+shortName     type        files
+steelLarge    EBSD        4D-XIII-A_cleaned.ang
+steel_1       EBSD        AF_001.ang
+steel_2       EBSD        AF_002.ang
+steel_3       EBSD        AF_003.ang
+steel_4       EBSD        AF_004.ang
+steel_5       EBSD        AF_005.ang
+steel_6       EBSD        AF_006.ang
+steel_7       EBSD        AF_007.ang
+steel_8       EBSD        AF_008.ang
+steel_9       EBSD        AF_009.ang
+steel_10      EBSD        AF_010.ang
+tiLarge       EBSD        large_ti.ctf
+ti_1          EBSD        small_ti.ctf
