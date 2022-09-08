@@ -25,7 +25,7 @@ can be found here <https://www.sciencedirect.com/science/article/pii/S2352340919
 .. |AF96_Large_1| image:: https://raw.githubusercontent.com/mesoOSU/Reconstruction_Data/master/EBSD/4D-XIII-A_cleaned.png
    :width: 916
 
-.. |AF96_Large_1_R| image:: https://raw.githubusercontent.com/mesoOSU/Reconstruction_Data/master/EBSD/4D-XIII-A_cleaned_Rec.png
+.. |AF96_Large_1_R| image:: https://raw.githubusercontent.com/mesoOSU/Reconstruction_Data/master/EBSD/4D-XIII-A_cleaned_Rec.jpeg
    :width: 962 
 
 ***********************************************************************************
