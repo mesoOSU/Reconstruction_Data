@@ -1,14 +1,24 @@
-shortName     type        files
-steelLarge    EBSD        4D-XIII-A_cleaned.ang
-steel_1       EBSD        AF_001.ang
-steel_2       EBSD        AF_002.ang
-steel_3       EBSD        AF_003.ang
-steel_4       EBSD        AF_004.ang
-steel_5       EBSD        AF_005.ang
-steel_6       EBSD        AF_006.ang
-steel_7       EBSD        AF_007.ang
-steel_8       EBSD        AF_008.ang
-steel_9       EBSD        AF_009.ang
-steel_10      EBSD        AF_010.ang
-tiLarge       EBSD        large_ti.ctf
-ti_1          EBSD        small_ti.ctf
+shortName     type        files                  google_drive_link
+steelLarge    EBSD        4D-XIII-A_cleaned.ang  https://drive.google.com/file/d/14M6FGWhAzzDJls8WyX_AuiKrN4BDtRPG/view?usp=sharing
+steel_1       EBSD        AF_001.ang             https://drive.google.com/file/d/1sb_qSL7tTYj60440FYsKwJNoqaR7c4x_/view?usp=sharing
+steel_2       EBSD        AF_002.ang             https://drive.google.com/file/d/1xs14vjgwKbl7scwDrWmNpRX9KhyOLusr/view?usp=sharing
+steel_3       EBSD        AF_003.ang             https://drive.google.com/file/d/17exIykze_8Mu0SazqRWbT_2xCNrI-Cfp/view?usp=sharing
+steel_4       EBSD        AF_004.ang             https://drive.google.com/file/d/1sqBEumzQitbevUJTnawoNQ-tTvdh0Odv/view?usp=sharing
+steel_5       EBSD        AF_005.ang             https://drive.google.com/file/d/14Y9Wel-Py8le51UETD-FqBn4CQCOYPx6/view?usp=sharing
+steel_6       EBSD        AF_006.ang             https://drive.google.com/file/d/1L4MWUCiP57z2AAR1TYKX6-qjtXlNAyIL/view?usp=sharing
+steel_7       EBSD        AF_007.ang             https://drive.google.com/file/d/1Bj8vSMQIcPve98vUUgEApfeCzcjw-1F_/view?usp=sharing
+steel_8       EBSD        AF_008.ang             https://drive.google.com/file/d/1JVEHAVUbD3SUpIeE11qUf8x96rkD9xQ0/view?usp=sharing
+steel_9       EBSD        AF_009.ang             https://drive.google.com/file/d/13cqRbnm0tDGolxB2Fxywp0_31UlCyQ-Q/view?usp=sharing
+steel_10      EBSD        AF_010.ang             https://drive.google.com/file/d/1gntyXQTpOoHDZ7wymkxPT9M3Q60Q_8Io/view?usp=sharing
+steel_11      EBSD        AF_011.ang             https://drive.google.com/file/d/19tYV1VrnJ0FWIi6UivDRyDcpHHVoeMTX/view?usp=sharing 
+steel_12      EBSD        AF_012.ang             https://drive.google.com/file/d/1HaYryMnvn73Atg3z7DCSzg9ejVkk4JHb/view?usp=sharing
+steel_13      EBSD        AF_013.ang             https://drive.google.com/file/d/1l0YJmjUanx5hwB8qTUjGvEItGjO4_lj7/view?usp=sharing
+steel_14      EBSD        AF_014.ang             https://drive.google.com/file/d/1JjRudycz46vkQuiiGauwQS2jX3uHDVdH/view?usp=sharing 
+steel_15      EBSD        AF_015.ang             https://drive.google.com/file/d/1bYUpfYtjc3DS0zdSnDToWlkYYoA-mXr0/view?usp=sharing
+steel_16      EBSD        AF_016.ang             https://drive.google.com/file/d/1iOyZt_OhA2NPGeVA-cW5IpXeSUjuDrp5/view?usp=sharing
+steel_17      EBSD        AF_017.ang             https://drive.google.com/file/d/1x1w-2A3Le2Oqd4WT5xuMtEav3sKBFNTm/view?usp=sharing
+steel_18      EBSD        AF_018.ang             https://drive.google.com/file/d/160I615Iznn4nSDSMwk_s4RV2w07HRdMK/view?usp=sharing
+steel_19      EBSD        AF_019.ang             https://drive.google.com/file/d/1YLh4QNybXDBF0d_07Qo5iINwCO8AGb2A/view?usp=sharing
+steel_20      EBSD        AF_020.ang             https://drive.google.com/file/d/16_oNdX5K4cYVPKupFs4AQpJxHFrGBBIc/view?usp=sharing
+tiLarge       EBSD        large_ti.ctf           https://drive.google.com/file/d/13bwf-ug6POrmaitWRZAszQmVfaQmmFan/view?usp=sharing
+ti_1          EBSD        small_ti.ctf           https://drive.google.com/file/d/10Q239RJcXo6_QgqSz88tS_j0N7PqbE60/view?usp=sharing
